@@ -21,6 +21,10 @@ Conference
 ## Visual Description   
 ![visual overview](./assets/overview.png)
 
+
+## Update 05/21
+### Please refer to the lab's [official implementation](https://github.com/KrishnaswamyLab/GSAE) as this repo will no longer be maintained 
+
 ## How to run   
 First, install dependencies   
 ```bash
